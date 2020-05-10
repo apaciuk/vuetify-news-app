@@ -1,8 +1,8 @@
 {
-  "name": "vue-news-app",
+  "name": "vuetify-news-app",
   "version": "1.0.0",
-  "description": "News Application with Vue.js And Vuetify",
-  "author": "Rachid Sakara <rachidsakaraoo7@gmail.com>",
+  "description": "News Application with Vue.js And Vuetify/Axios",
+  "author": "Paul Anthony McGowan <xhostcom@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
