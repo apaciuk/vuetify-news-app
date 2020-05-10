@@ -6,6 +6,9 @@ News app with Axios api calls to news api. Just api calls, no CMS or headless se
 
 ## Demo
 
+https://vibrant-hamilton-82907e.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/465e4ac3-a0c3-4eab-a59c-4d9c22c550c4/deploy-status)](https://app.netlify.com/sites/vibrant-hamilton-82907e/deploys)
 
 ## Repo
 
